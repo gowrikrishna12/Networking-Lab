@@ -1,1 +1,1 @@
-Networking laab programs
+Networking lab programs
